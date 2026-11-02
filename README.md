@@ -2,7 +2,10 @@
 
 MCP-inspired governance and observability for Retrieval-Augmented Generation (RAG).
 
-![AgentRAG-Ops system architecture](docs/architecture.png)
+## AgentRAG-Ops system architecture
+
+<img width="428" height="239" alt="image" src="https://github.com/user-attachments/assets/de578dae-f1f9-44a4-bf9c-99d6a237ce4d" />
+
 
 ## Project overview
 
